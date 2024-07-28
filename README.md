@@ -15,6 +15,6 @@ To do so, you need to:
 ---
 This code is provided allong with more detailed informations in this article: [Gallou-Guyot et al., 2024](). The data has been acquired within the [INCOME](https://matthieugg.github.io/income.html) research project.  To cide this work:  
 (...)   
-![Dual Task Progress](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DTP.png?raw=true)
+![Dual Task Progress](https://github.com/MatthieuGG/DualTaskProgress/blob/main/images/DTP.png?raw=true)
 
 You can also be interested in the Dual-Task Effect caculator: https://github.com/MatthieuGG/DualTaskEffect
