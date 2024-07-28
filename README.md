@@ -13,7 +13,7 @@ To do so, you need to:
 ![Dual Task Progress Graph](https://github.com/MatthieuGG/DualTaskProgress/blob/main/results/DTP_plot.jpg?raw=true)  
 
 ---
-This code is provided allong with more detailed informations in this article: [Gallou-Guyot et al., 2024](). The data has been acquired within the [INCOME](https://matthieugg.github.io/income.html) research project.  To cide this work:  
+This code is provided allong with more detailed informations in this article: [Gallou-Guyot et al., 2024](). The data has been acquired within the [INCOME research project](https://matthieugg.github.io/income.html).  To cide this work:  
 (...)   
 ![Dual Task Progress](https://github.com/MatthieuGG/DualTaskProgress/blob/main/images/DTP.png?raw=true)
 
