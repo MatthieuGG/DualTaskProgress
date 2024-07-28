@@ -1,9 +1,8 @@
-# DualTaskEffectProgress
+# Dual Task Progress (DTP)
 
 **Input: individual or collective .csv files ([~/sample]())  
 Output: individual or collective .csv files, as well as a collective plot ([~/results]())  
 Script: [DualTaskProgress.ipynb]()**  
-![Dual Task Progress](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DTP.png?raw=true)
 
 Automatically calculates the cognitive-motor dual-task effect (DTE) and the dual-task progress (DTP) from the cognitive and motor performances of subjects at 2 times (T1 and T2), both realised in single and dual task condition (ST and DT).  
 
@@ -15,5 +14,6 @@ To do so, you need to:
 ---
 This code is provided allong with more detailed informations in this article: [Gallou-Guyot et al., 2024](). The data has been acquired within the [INCOME](https://matthieugg.github.io/income.html) research project.  To cide this work:  
 (...)  
+![Dual Task Progress](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DTP.png?raw=true)
 
 You can also be interested in the Dual-Task Effect caculator: https://github.com/MatthieuGG/DualTaskEffect
