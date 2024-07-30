@@ -21,7 +21,7 @@ To do so, you need to:
 This code is provided allong with more detailed informations in this article: [Gallou-Guyot et al., 2024](). The data has been acquired within the [INCOME research project](https://matthieugg.github.io/income.html).  To cide this work:  
 > (incoming: article)  
 
-> (incoming: code DOI) 
+> Matthieu Gallou-Guyot. (2024). MatthieuGG/DualTaskProgress: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13131779 
 
 ![Dual Task Progress](https://github.com/MatthieuGG/DualTaskProgress/blob/main/images/DTP.png?raw=true)
 
