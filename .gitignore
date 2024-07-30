@@ -1,4 +1,4 @@
-# Ignorer macOS temporary files
+# Ignore macOS temporary files
 .DS_Store
 .AppleDouble
 .LSOverride
