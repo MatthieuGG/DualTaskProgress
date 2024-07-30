@@ -1,5 +1,7 @@
 # Dual Task Progress (DTP)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13131779.svg)](https://doi.org/10.5281/zenodo.13131779)
+
 **Input: individual or collective .csv files ([~/sample](https://github.com/MatthieuGG/DualTaskProgress/tree/main/sample))  
 Output: individual or collective .csv files, as well as a collective plot ([~/results](https://github.com/MatthieuGG/DualTaskProgress/tree/main/results))  
 Script: [DualTaskProgress.ipynb](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DualTaskProgress.ipynb)**  
