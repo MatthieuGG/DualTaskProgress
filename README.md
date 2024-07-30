@@ -10,7 +10,8 @@ To do so, you need to:
 - transpose your participants performance into .csv files (see exemples of files structures in [~/sample](https://github.com/MatthieuGG/DualTaskProgress/tree/main/sample))
 - use the provided code [DualTaskProgress.ipynb](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DualTaskProgress.ipynb) on your files to obtain the DTE and DTP scores and appreciation, as well as a graphical representation (see [~/results](https://github.com/MatthieuGG/DualTaskProgress/tree/main/results)). You can run the code as is if you keep the same path.
 
-![Dual Task Progress Graph](https://github.com/MatthieuGG/DualTaskProgress/blob/main/results/DTP_plot.jpg?raw=true)
+![Dual Task Progress Graph](https://github.com/MatthieuGG/DualTaskProgress/blob/main/results/DTP_plot.jpg?raw=true)  
+
 `"Participant 1    : went from Cognitive priority tradeoff    at T1, to Motor priority trade off       at T2 with a DTP -/+ : cognitive trade-off of CMI"`  
 (etc. for all participants)  
 
