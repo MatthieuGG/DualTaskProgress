@@ -10,7 +10,8 @@ Automatically calculates the cognitive-motor dual-task effect (DTE) and the dual
 
 To do so, you need to:
 - transpose your participants performance into .csv files (see exemples of files structures in [~/sample](https://github.com/MatthieuGG/DualTaskProgress/tree/main/sample))
-- use the provided code [DualTaskProgress.ipynb](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DualTaskProgress.ipynb) on your files to obtain the DTE and DTP scores and appreciation, as well as a graphical representation (see [~/results](https://github.com/MatthieuGG/DualTaskProgress/tree/main/results)). You can run the code as is if you keep the same path.
+- use the provided code [DualTaskProgress.ipynb](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DualTaskProgress.ipynb) on your files to obtain the DTE and DTP scores and appreciation, as well as a graphical representation (see [~/results](https://github.com/MatthieuGG/DualTaskProgress/tree/main/results)). In this first cell, you need to bring some information to condigurate the analysis: are you using independant or gathered data, what is the direction of the score you used, do you want to save the plot, and so on.
+- you'll obtain this kind of results:
 
 ![Dual Task Progress Graph](https://github.com/MatthieuGG/DualTaskProgress/blob/main/results/DTP_plot.jpg?raw=true)  
 
@@ -18,7 +19,7 @@ To do so, you need to:
 (etc. for all participants)  
 
 ---
-This code is provided allong with more detailed informations in this article: [Gallou-Guyot et al., 2024](). The data has been acquired within the [INCOME research project](https://matthieugg.github.io/income.html).  To cide this work:  
+This code is provided allong with more detailed informations in this article: [Gallou-Guyot et al., 2024](). The data has been acquired within the [INCOME research project](https://matthieugg.github.io/income.html).  To cite this work:  
 > (incoming: article)  
 
 > Matthieu Gallou-Guyot. (2024). MatthieuGG/DualTaskProgress: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13131779 
