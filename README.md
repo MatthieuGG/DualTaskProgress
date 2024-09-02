@@ -6,11 +6,11 @@
 Output: individual or collective .csv files, as well as a collective plot ([~/results](https://github.com/MatthieuGG/DualTaskProgress/tree/main/results))  
 Script: [DualTaskProgress.ipynb](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DualTaskProgress.ipynb)**  
 
-Automatically calculates the cognitive-motor dual-task effect (DTE) and the dual-task progress (DTP) from the cognitive and motor performances of subjects at 2 times (T1 and T2), both realised in single and dual task condition (ST and DT).  
+Automatically calculates the cognitive-motor dual-task progress (DTP) from the cognitive and motor performances of subjects at 2 times (T1 and T2), both realised in single and dual task condition (ST and DT).  
 
 To do so, you need to:
-- transpose your participants performance into .csv files (see exemples of files structures in [~/sample](https://github.com/MatthieuGG/DualTaskProgress/tree/main/sample))
-- use the provided code [DualTaskProgress.ipynb](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DualTaskProgress.ipynb) on your files to obtain the DTE and DTP scores and appreciation, as well as a graphical representation (see [~/results](https://github.com/MatthieuGG/DualTaskProgress/tree/main/results)). In this first cell, you need to bring some information to condigurate the analysis: are you using independant or gathered data, what is the direction of the score you used, do you want to save the plot, and so on.
+- transpose your participants performance into .csv files (see exemples of independant or gathered files structures in [~/sample](https://github.com/MatthieuGG/DualTaskProgress/tree/main/sample))
+- use the provided Notebook [DualTaskProgress.ipynb](https://github.com/MatthieuGG/DualTaskProgress/blob/main/DualTaskProgress.ipynb) on your files to obtain the DTE and DTP scores and appreciation, as well as a graphical representation (see [~/results](https://github.com/MatthieuGG/DualTaskProgress/tree/main/results)). In the first cell, you need to bring some information to configurate the analysis: are you using independant or gathered data, what is the direction of the score you used, do you want to save the plot, and so on.
 - you'll obtain this kind of results:
 
 ![Dual Task Progress Graph](https://github.com/MatthieuGG/DualTaskProgress/blob/main/results/DTP_plot.jpg?raw=true)  
